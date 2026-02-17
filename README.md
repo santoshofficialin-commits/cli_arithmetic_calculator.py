@@ -46,5 +46,13 @@ This project was built as part of my Python learning journey to practice:
 - Error handling
 
 ---
+python-cli-calculator/
+│
+├── cli_arithmetic_calculator.py
+├── README.md
+├── LICENSE
+├── .gitignore
+└── requirements.txt   (optional for now)
 
-Author: Rumi
+
+Author: Santosh
