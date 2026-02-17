@@ -52,7 +52,7 @@ python-cli-calculator/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-└── requirements.txt   (optional for now)
+└── 
 
 
 Author: Santosh
